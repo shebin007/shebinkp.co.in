@@ -1,0 +1,14 @@
+{
+  "name": "shebin-portfolio",
+  "version": "1.0.0",
+  "description": "Frontity package created using the Frontity CLI.",
+  "keywords": [
+    "frontity",
+    "frontity-shebinTheme"
+  ],
+  "license": "Apache-2.0",
+  "dependencies": {
+    "frontity": "^1.17.2",
+    "react-web-tabs": "^1.0.1"
+  }
+}
